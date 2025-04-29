@@ -17,11 +17,12 @@ I'm a Computer Science student passionate about **Artificial Intelligence**, **M
 
 Feel free to reach out to me on any of the platforms below:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashesh-bajracharya/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/ashesh2004)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ashesh-12)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ashesh.l/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](bajracharyaashesh12@gmail.com)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo_2023.svg/1024px-LinkedIn_Logo_2023.svg.png)](https://www.linkedin.com/in/ashesh-bajracharya/)
+[![X](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/X_logo_2023.svg/800px-X_logo_2023.svg.png)](https://x.com/ashesh2004)
+[![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/95/Octicons-mark-github.svg)](https://github.com/ashesh-12)
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png)](https://www.instagram.com/ashesh.l/)
+[![Email](https://upload.wikimedia.org/wikipedia/commons/4/42/Gmail_Icon.png)](bajracharyaashesh12@gmail.com)
+
 
 
 ### 📊 Research Experience
