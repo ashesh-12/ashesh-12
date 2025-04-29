@@ -13,6 +13,17 @@ I'm a Computer Science student passionate about **Artificial Intelligence**, **M
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
+## 📫 Connect with Me
+
+Feel free to reach out to me on any of the platforms below:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashesh-bajracharya/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/ashesh2004)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ashesh-12)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ashesh.l/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](bajracharyaashesh12@gmail.com)
+
+
 ### 📊 Research Experience
 
 **Integrating Technical Analysis with Predictive Models**  
@@ -39,13 +50,6 @@ A study on support and resistance trading with ML models.
 
 ---
 
-### 🌐 Let's Connect
-
-- 📫 Email: bajracharyaashesh12@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ashesh-bajracharya)  
-- 💻 [GitHub](https://github.com/ashesh-12)
-
----
 
 ⚡ *Actively learning, building, and collaborating in the AI/ML & DevOps space.*
 
