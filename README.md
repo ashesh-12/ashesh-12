@@ -1,3 +1,5 @@
+![Header Image](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*fhZsggnseKdBmY3_JonRkA.gif)
+
 # 👋 Hi, I'm Ashesh Bajracharya 
 Aspiring AI/ML Engineer | Cloud & DevOps Enthusiast
 
@@ -56,4 +58,8 @@ A study on support and resistance trading with ML models.
 
 ## 📈 GitHub Stats
 ![Ashesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashesh-12&show_icons=true&theme=tokyonight)
+![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=ashesh-12&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashesh-12&show_icons=true&theme=tokyonight)
+![Languages](https://img.shields.io/github/languages/top/ashesh-12/your-repo)
+![Contributions](https://img.shields.io/github/contributors/ashesh-12/your-repo)
 
