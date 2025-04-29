@@ -41,7 +41,7 @@ A study on support and resistance trading with ML models.
 
 ### 🌐 Let's Connect
 
-- 📫 Email: bajrachyaashesh12@gmail.com  
+- 📫 Email: bajracharyaashesh12@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ashesh-bajracharya)  
 - 💻 [GitHub](https://github.com/ashesh-12)
 
