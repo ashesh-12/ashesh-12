@@ -59,7 +59,7 @@ A study on support and resistance trading with ML models.
 ## 📈 GitHub Stats
 ![Ashesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashesh-12&show_icons=true&theme=tokyonight)
 ![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=ashesh-12&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashesh-12&show_icons=true&theme=tokyonight)
-![Languages](https://img.shields.io/github/languages/top/ashesh-12/your-repo)
-![Contributions](https://img.shields.io/github/contributors/ashesh-12/your-repo)
+
+
+
 
