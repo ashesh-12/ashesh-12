@@ -17,7 +17,7 @@ I'm a Computer Science student passionate about **Artificial Intelligence**, **M
 
 Feel free to reach out to me on any of the platforms below:
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo_2023.svg/1024px-LinkedIn_Logo_2023.svg.png)](https://www.linkedin.com/in/ashesh-bajracharya/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashesh-bajracharya/)
 [![X](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/X_logo_2023.svg/800px-X_logo_2023.svg.png)](https://x.com/ashesh2004)
 [![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/95/Octicons-mark-github.svg)](https://github.com/ashesh-12)
 [![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png)](https://www.instagram.com/ashesh.l/)
