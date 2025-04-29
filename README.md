@@ -21,7 +21,7 @@ Feel free to reach out to me on any of the platforms below:
 [![X](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/X_logo_2023.svg/800px-X_logo_2023.svg.png)](https://x.com/ashesh2004)
 [![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/95/Octicons-mark-github.svg)](https://github.com/ashesh-12)
 [![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png)](https://www.instagram.com/ashesh.l/)
-[![Email](https://upload.wikimedia.org/wikipedia/commons/4/42/Gmail_Icon.png)](bajracharyaashesh12@gmail.com)
+[![Email](https://upload.wikimedia.org/wikipedia/commons/4/42/Gmail_Icon.png)](mailto:bajracharyaashesh12@gmail.com)
 
 
 
